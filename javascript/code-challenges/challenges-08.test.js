@@ -54,6 +54,8 @@ let characters = [
 
 const sortByChildren = (charArray) => {
   // Solution code here...
+  charArray.sort((a,b) => a.children.length - b.children.length ? 1 :-1);
+  return charArray.sort((a,b) => a.house - b.house ? 1 :-1);
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -83,6 +85,8 @@ For example:
 
 const isNum = (input) => {
   // Solution code here...
+  let regex = /1234567890/gmi;
+  return regex.test(input);
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -116,6 +120,8 @@ Write a function named citiesAtoJ that takes in an array of city names and uses 
 
 const citiesAtoJ = (arr) => {
   // Solution code here...
+  const pattern = /^[A-J]/;
+  return arr.filter(city => pattern.test(city));
 };
 
 /* ------------------------------------------------------------------------------------------------
