@@ -49,7 +49,16 @@ return: 35
 ------------------------------------------------------------------------------------------------ */
 const totalSum = (matrix) => {
   // Solution code here...
-  return [...matrix[0], ...matrix[1], ...matrix[2]].reduce((a, b) => a + b, 0);
+  // return [...matrix[0], ...matrix[1], ...matrix[2]].reduce((a, b) => a + b, 0);
+  let total = 0;
+  matrix.forEach(arr => {
+    arr.forEach(num => {
+      total += num;
+      return total;
+    });
+    return total;
+  });
+ return total;
 };
 
 
