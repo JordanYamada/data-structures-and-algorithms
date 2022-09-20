@@ -2,6 +2,10 @@
 
 ## Language: `JavaScript`
 
+### 401 Table of Contents
+
+[Table of Contents](401code-challenges/README.md)
+
 ### Folder and Challenge Setup
 
 Each type of code challenge has slightly different instructions. Please refer to the notes and examples below for instructions for each DS&A assignment type.
