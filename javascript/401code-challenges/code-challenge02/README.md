@@ -6,8 +6,8 @@ Write a function called insertShiftArray which takes in an array and a value to 
 ## Whiteboard Process
 
 <!-- Embedded whiteboard image -->
-![Whiteboard](401code-challenges/images/CC02-2.jpg)
-![Code](401code-challenges/images/CC02-1.png)
+![Whiteboard](./../images/CC02-2.jpg)
+![Code](./../images/CC02-1.png)
 
 ## Approach & Efficiency
 

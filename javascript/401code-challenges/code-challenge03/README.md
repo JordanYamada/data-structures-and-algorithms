@@ -6,8 +6,8 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 ## Whiteboard Process
 
 <!-- Embedded whiteboard image -->
-![Whiteboard](401code-challenges/images/CC03-2.jpg)
-![Code](401code-challenges/images/CC03-1.png)
+![Whiteboard](./../images/CC03-2.jpg)
+![Code](./../images/CC03-1.png)
 
 ## Approach & Efficiency
 
