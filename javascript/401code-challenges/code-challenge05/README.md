@@ -51,7 +51,7 @@ Write tests to prove the following functionality:
 ## Whiteboard Process
 
 <!-- Embedded whiteboard image -->
-![Whiteboard](./../images/CC05.jpg)
+![Whiteboard](./../images/CC05.png)
 
 ## Approach & Efficiency
 
