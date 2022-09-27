@@ -18,3 +18,7 @@ Rhea Carillo, Jeffrey Smith, Alfredo Orquiz and Robert McCreary.
 
 Whiteboarded provided by Jacob Knaack as show through the class demo.
 Worked with Jeffrey Smith to write the code.
+
+## Code Challenge 06
+
+Worked with Jeffrey Smith to apply code and tests. Had help from (TA)Michael Treat.
