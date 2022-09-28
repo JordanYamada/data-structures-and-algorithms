@@ -22,3 +22,7 @@ Worked with Jeffrey Smith to write the code.
 ## Code Challenge 06
 
 Worked with Jeffrey Smith to apply code and tests. Had help from (TA)Michael Treat.
+
+## Code Challenge 07
+
+Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
