@@ -26,3 +26,7 @@ Worked with Jeffrey Smith to apply code and tests. Had help from (TA)Michael Tre
 ## Code Challenge 07
 
 Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
+
+## Code Challenge 26
+
+Whiteboarded with Amy Pierce, Rhea Carillo and Robert McCreary.
