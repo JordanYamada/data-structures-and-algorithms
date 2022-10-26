@@ -30,3 +30,7 @@ Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeff
 ## Code Challenge 26
 
 Whiteboarded with Amy Pierce, Rhea Carillo and Robert McCreary.
+
+## Code Challenge 27
+
+Whiteboarded with Amy Pierce, Brooke Heck, Rhea Carillo and Robert McCreary.
