@@ -34,3 +34,7 @@ Whiteboarded with Amy Pierce, Rhea Carillo and Robert McCreary.
 ## Code Challenge 27
 
 Whiteboarded with Amy Pierce, Brooke Heck, Rhea Carillo and Robert McCreary.
+
+## Code Challenge 28
+
+Whiteboarded with Amy Pierce and Robert McCreary.
