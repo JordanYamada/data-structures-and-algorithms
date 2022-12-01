@@ -2,12 +2,12 @@
 
 ## Challenge
 
--Write a function called tree_intersection that takes two binary trees as parameters.
--Using your Hashmap implementation as a part of your algorithm, return a set of values found in both trees.
+- Write a function called tree_intersection that takes two binary trees as parameters.
+- Using your Hashmap implementation as a part of your algorithm, return a set of values found in both trees.
 
 ## Structure and Testing
 
--Should find intersection of two trees
+- Should find intersection of two trees
 <br/>
 Run [npm test code-challenge32] to run tests.
 
@@ -22,4 +22,3 @@ Run [npm test code-challenge32] to run tests.
 
 Time = O(n)<br/>
 Space = O(1)
-

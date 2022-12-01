@@ -62,3 +62,7 @@ Whiteboarded with Amy Pierce, Brooke Heck, Rhea Carillo and Robert McCreary.
 ## Code Challenge 28
 
 Whiteboarded with Amy Pierce and Robert McCreary.
+
+## Code Challenge 36
+
+Whiteboard provided by Jacob Knaack from the class lecture.
