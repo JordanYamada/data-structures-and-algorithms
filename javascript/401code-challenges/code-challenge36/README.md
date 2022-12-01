@@ -16,7 +16,7 @@ Run [npm test code-challenge36] to run tests.
 ## Whiteboard Process
 
 <!-- Embedded whiteboard image -->
-![Whiteboard](./../images/CC36.jpg)
+![Whiteboard](./../images/CC36.png)
 
 ## Approach & Efficiency
 
