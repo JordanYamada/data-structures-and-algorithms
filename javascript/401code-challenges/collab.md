@@ -27,6 +27,30 @@ Worked with Jeffrey Smith to apply code and tests. Had help from (TA)Michael Tre
 
 Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
 
+## Code Challenge 08
+
+Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
+
+## Code Challenge 10
+
+Whiteboarded and made tests with Rhea Carillo, Amy Pierce, and Alfredo Orquiz.
+
+## Code Challenge 11
+
+Worked with Rhea Carillo and Alfredo Orquiz for code and tests.
+
+## Code Challenge 12
+
+Worked with Rhea Carillo, Robert McCreary and Alfredo Orquiz for code and tests.
+
+## Code Challenge 13
+
+Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
+
+## Code Challenge 15
+
+Whiteboarded with Rhea Carillo, Amy Pierce, and Alfredo Orquiz. Worked with Jeffrey Smith to apply code and tests.
+
 ## Code Challenge 26
 
 Whiteboarded with Amy Pierce, Rhea Carillo and Robert McCreary.

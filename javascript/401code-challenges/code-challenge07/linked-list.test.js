@@ -30,5 +30,5 @@ it('Where k is not greater than the length of list', () => {
   list.append('c');
   list.append('d');
   list.append('e');
-  expect(list.kFromEnd(2)).toEqual('c');
+  expect(list.kFromEnd(2)).toEqual('b');
 });
