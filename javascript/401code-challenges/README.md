@@ -23,6 +23,8 @@
 - [code31](./code-challenge31/README.md)
 - [code32](./code-challenge32/README.md)
 - [code33](./code-challenge33/README.md)
-- [code34](./code-challenge34/README.md)
 - [code35](./code-challenge35/README.md)
 - [code36](./code-challenge36/README.md)
+- [code37](./code-challenge37/README.md)
+- [code38](./code-challenge38/README.md)
+
