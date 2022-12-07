@@ -1,22 +1,23 @@
-# graph-breadth-first
+# graph-depth-first
 
 ## Challenge
 
 Write the following method for the Graph class:
 
-breadth first
+depth first
 - Arguments: Node
 - Return: A collection of nodes in the order they were visited.
 - Display the collection
 
 ## Structure and Testing
 <br/>
-Run [npm test code-challenge36] to run tests.
+Run [npm test code-challenge38] to run tests.
 
 ## Whiteboard Process
 
 <!-- Embedded whiteboard image -->
-![Whiteboard](./../images/CC36.png)
+![Whiteboard](./../images/CC38.png)
+![Whiteboard](./../images/CC38-2.png)
 
 ## Approach & Efficiency
 
